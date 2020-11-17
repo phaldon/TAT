@@ -9,6 +9,7 @@
 /pybind11
 /CMakeSettings.json
 /env
+DOXYFILE2
 *.exp
 *.lib
 *.pdb
