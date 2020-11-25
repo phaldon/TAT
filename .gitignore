@@ -2,6 +2,7 @@
 /.vscode
 /build
 /html
+/xml
 /pybind11
 /emscripten
 /include/fire.hpp
